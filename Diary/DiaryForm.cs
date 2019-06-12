@@ -1002,6 +1002,7 @@ namespace Diary
                     case "game":
                     case "movie":
                     case "ero":
+                    //case "others":
                         d += DConvert.ToDoble(book.Text);
                         d += DConvert.ToDoble(animation.Text);
                         d += DConvert.ToDoble(game.Text);
