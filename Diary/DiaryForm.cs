@@ -16,6 +16,7 @@ namespace Diary
 {
     public partial class DiaryForm : Form
     {
+        public int newVar = 0;
 
         // --- Common ---
         int curIndex;
